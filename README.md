@@ -1,9 +1,10 @@
 # Cartographer-Nav2小车
-[![Watch the video](./src/test.jpg)](./src/test.mp4)    
+![image](./src/test1.gif)  
+![image](./src/test2.gif)  
 ## 1 环境
 ### 1.1 硬件
 小车：树莓派4B、履带小车（使用17HS4401步进电机*2）、LD14单线激光雷达  
-![image](./src/test.jpg)  
+![image](./src/test3.jpg)  
 上位机：笔记本  
 ### 1.2 软件
 ubuntu 22.04  
