@@ -1,5 +1,5 @@
 # Cartographer-Nav2小车
-<video src="./src/test.mp4"></video>  
+[![Watch the video](./src/test.jpg)](./src/test.mp4)    
 ## 1 环境
 ### 1.1 硬件
 小车：树莓派4B、履带小车（使用17HS4401步进电机*2）、LD14单线激光雷达  
