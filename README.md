@@ -34,7 +34,7 @@ https://fishros.com/d2lros2/#/humble/chapt10/get_started/3.%E9%85%8D%E7%BD%AEFis
 启动nav2，参考：  
 https://fishros.com/d2lros2/#/humble/chapt11/get_started/2.%E4%B8%BAFishBot%E9%85%8D%E7%BD%AENav2  
 
-# 参考  
+# 3 参考  
 https://fishros.com/d2lros2  
 https://blog.csdn.net/scarecrow_sun/article/details/128992820  
 https://blog.csdn.net/scarecrow_sun/article/details/129474844  
